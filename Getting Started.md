@@ -1,6 +1,6 @@
 # Getting Started
 
-## Intro to Commands
+## Intro to Commands and Intro to arguments
 
 #### 1. First Create an account on pwn.college and then go to Ubuntu terminal and type ssh-keygen -f -N''. This will have two keys key and key.pub now inorder to access the ssh you have to do**__cat key.pub__** and then copy and paste it into the website.
 #### 2. Then, start the first challenge on pwn.college, and then open the terminal and type: **_ssh -i key hacker@pwn.college_** This connects pwn.college to your terminal.
